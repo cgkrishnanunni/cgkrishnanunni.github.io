@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cgkrishnanunni.github.io/al-folio/sitemap.xml
+Sitemap: https://cgkrishnanunni.github.io/sitemap.xml
