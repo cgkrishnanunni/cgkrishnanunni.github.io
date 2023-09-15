@@ -8,7 +8,12 @@ nav_order: 5
 ---
 
 - Finite Element Analysis
+  - Introduction to finite element analysis applied to elasticity problems.
 - Structural Optimization
+  - Introduction to gradient based and gradient free optimization algorithms applied to structural mechanics problems.
 - Applied Mathematics I
+  - Introduction to multivariable calculus, complex analysis, linear operator theory.
 - Applied Mathematics II
+  - Introduction to tensor calculus, Calculus of variation, Fourier transform.
 - Mathematical methods in science and engineering.
+  - Introduction to Spectral analysis, Hilbert space theory and duality, Lax-Milgram and Babuska-Necas Theorems.
