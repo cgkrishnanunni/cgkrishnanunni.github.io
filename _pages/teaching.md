@@ -9,6 +9,7 @@ nav_order: 5
 
 - **Finite Element Analysis** (IIT Madras, Department of structural engineering)
   - Introduction to finite element analysis applied to elasticity problems.
+    <br />
 - **Structural Optimization** (IIT Madras, Department of structural engineering)
   - Introduction to gradient based and gradient free optimization algorithms applied to structural mechanics problems.
 - **Applied Mathematics I** (UT Austin, Department of aerospace engineering)
