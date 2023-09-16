@@ -2,7 +2,7 @@
 layout: page
 permalink: /projects/
 title: talks
-description: Please download my CV [here](/assets/pdf/example_pdf.pdf)
+description: This page includes talks I have given at conferences and other invited talks.
 nav: true
 nav_order: 2
 ---
