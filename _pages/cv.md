@@ -6,5 +6,5 @@ description: Please download my CV below
 nav: true
 nav_order: 4
 ---
+[CV](/assets/pdf/CV__K.pdf)
 
-[CV](https://github.com/cgkrishnanunni/cgkrishnanunni.github.io/blob/master/assets/pdf/CV__K.pdf)
