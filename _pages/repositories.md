@@ -8,25 +8,25 @@ nav_order: 3
 ---
 
 
-# Research projects undertaken
+## Research projects undertaken
 
 It has always fascinated me to see what mathematics can do especially in bringing together different disciplines to solve complex problems in real life. To that end, my research is interdisciplinary and the projects fall under four broad categories. 
 
-## Projects undertaken in inverse problems.
+- Projects undertaken in inverse problems.
 
 
 
-## Projects undertaken in mathematical modelling.
+- Projects undertaken in mathematical modelling.
 
 
 
-## Projects undertaken in numerical analysis.
+- Projects undertaken in numerical analysis.
 
 
-## Projects undertaken in machine learning.
+- Projects undertaken in machine learning.
 
 
-# Here are some recent papers I have been reading!
+## Here are some recent papers I have been reading!
 
 - **[A Universal Law of Robustness via Isoperimetry](https://arxiv.org/abs/2105.12806)**
 
