@@ -2,12 +2,31 @@
 layout: page
 permalink: /repositories/
 title: projects
-description: This page provides a glimpse of my research.
+description: This page provides a glimpse of my research projects.
 nav: true
 nav_order: 3
 ---
 
-## Here are some recent papers I have been reading!
+
+# Research projects undertaken
+
+It has alwyas fascinated me to see what mathematics can do especially in bringing together differnt disciplines to solve complex problems in real life. To that end, my research is interdisciplinary and the projects fall under four broad categories. 
+
+## Projeccts undertaken in inverse problems.
+
+
+
+## Projeccts undertaken in mathematical modelling.
+
+
+
+## Projeccts undertaken in numerical analysis.
+
+
+## Projeccts undertaken in machine learning.
+
+
+# Here are some recent papers I have been reading!
 
 - **[A Universal Law of Robustness via Isoperimetry](https://arxiv.org/abs/2105.12806)**
 
