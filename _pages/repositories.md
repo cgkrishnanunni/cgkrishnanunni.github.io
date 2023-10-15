@@ -17,8 +17,6 @@ It has always fascinated me to see what mathematics can do especially in bringin
   - Sensitivity-Based Damage Identification Algorithm using Vibration Data (An Inverse Eigen Value Problem): This project explores the use of structural intrinsic properties such as natural frequencies for computing the location and magnitude of structural damage (stiffness reduction). We derive a sensitivity equation by linearizing the perturbed linear dynamics to study the sensitivity of natural frequencies and static displacements to a stiffness reduction. An objective function representing a residual is then defined using the derived sensitivity equation and minimized using a metaheuristic optimization algorithm for determining structural damage.
   -  Indirect Health Monitoring of Bridges: Indirect health monitoring deals with damage identification strategies for bridges based on the dynamic response of a moving vehicle. In this project we have sucessfully integrated Tikhonov Regularization scheme with a signal averaging technique to define a cost function and showed that under some derived mathematical conditions, it is possible to extract the magnitude and location of bridge damage based on dynamic vehicle response data. In a related project, we have used Thermodynamic principles to relate the change in Vehicle–Bridge-Interaction (VBI) forces to the change in dynamic tyre pressure.  A Stein variational gradient descent implementation of the Bayes rule is employed to quantify the uncertainty in the estimated tyre parameters which is then used for bridge damage identification.
 
-  -  This Integrating Tikhonov Regularization with Signal Processing
-
 - Projects undertaken in **mathematical modelling**.
 
 
