@@ -14,8 +14,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - Projects undertaken in **inverse problems**.
 
-  js
-
+  - Sensitivity-Based Damage Identification Algorithm using Vibration Data (An Inverse Eigen Value Problem): This project explores the use of structural intrinsic properties such as natural frequencies for computing the location and magnitude of structural damage (stiffness reduction). We derive a sensitivity equation by linearizing the perturbed linear dynamics to study the sensitivity of natural frequencies and static displacements to a stiffness reduction. An objective function representing a residual is then defined using the derived sensitivity equation and minimized using a metaheuristic optimization algorithm. The efficiency of the approach in estimating the damage location and magnitude is demonstrated on a wide range of structural systems.
 
 - Projects undertaken in **mathematical modelling**.
 
@@ -27,7 +26,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 - Projects undertaken in **machine learning**.
 
 
-## Here are some recent papers I have been reading!
+## Recent readings!
 
 - **[A Universal Law of Robustness via Isoperimetry](https://arxiv.org/abs/2105.12806)**
 
