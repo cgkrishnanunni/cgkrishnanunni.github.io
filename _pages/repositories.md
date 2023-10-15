@@ -10,7 +10,7 @@ nav_order: 3
 
 # Research projects undertaken
 
-It has alwyas fascinated me to see what mathematics can do especially in bringing together differnt disciplines to solve complex problems in real life. To that end, my research is interdisciplinary and the projects fall under four broad categories. 
+It has always fascinated me to see what mathematics can do especially in bringing together different disciplines to solve complex problems in real life. To that end, my research is interdisciplinary and the projects fall under four broad categories. 
 
 ## Projeccts undertaken in inverse problems.
 
