@@ -1,11 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: readings
-description: This page includes recent papers I have been reading.
+title: projects
+description: This page provides a glimpse of my research.
 nav: true
 nav_order: 3
 ---
+
+# Here are some recent papers I have been reading!
 
 - **[A Universal Law of Robustness via Isoperimetry](https://arxiv.org/abs/2105.12806)**
 
