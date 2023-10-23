@@ -25,6 +25,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
   - Multi-patch epidemic models with partial mobility, residency, and demography:  In this work, a multi-patch epidemic model is proposed that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, the work develops  SEIRS multi-patch and multi-group epidemic models to practically account for distinct epidemiological-status-dependent mobilities in each patch.
   
 - Projects undertaken in **numerical analysis**.
+  - Iterative decoupled technique for dynamic response of vehicle-pavement systems: This project focus on developing an iterative decoupled technique for the simulating the dynamic response of vehicle-pavement systems. The key idea of the approach involves decoupling the vehicle-pavement coupled system into two subsystems and solving them independently until the solution has converged using an iterative scheme. We look at various aspects of the method such as rate of convergence etc.
 
 
 - Projects undertaken in **machine learning**.
