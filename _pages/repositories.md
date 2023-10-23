@@ -19,9 +19,10 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - Projects undertaken in **mathematical modelling**.
 
-  - A novel viscoelastic Euler–Bernoulli Beam Model for simulating the nonlinear dynamics of Vehicle–Pavement System: In this project, a non-linear vehicle-pavement interaction model has been proposed. The Galerkin method and Runge–Kutta method are employed to discretise the differential equations arising from the dynamic equations of motion of the system. The effect of coupling action on pavement displacements and vehicle body vertical displacement is examined numerically with the developed model.
+  - A novel mathematical model for simulating the nonlinear vehicle–pavement coupled dynamics: In this project, a non-linear vehicle-pavement interaction model has been proposed. The Galerkin method and Runge–Kutta method are employed to discretise the differential equations arising from the dynamic equations of motion of the system. The effect of coupling action on pavement displacements and vehicle body vertical displacement is examined numerically with the developed model.
 
-
+  - Multi-patch epidemic models with partial mobility, residency, and demography:  In this work, a multi-patch epidemic model is proposed that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, the work develops  SEIRS multi-patch and multi-group epidemic models to practically account for distinct epidemiological-status-dependent mobilities in each patch.
+  
 - Projects undertaken in **numerical analysis**.
 
 
