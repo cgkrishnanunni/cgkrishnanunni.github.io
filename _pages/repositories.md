@@ -14,7 +14,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - Projects undertaken in **inverse problems**.
 
-  - Sensitivity-Based Damage Identification Algorithm using Vibration Data (An Inverse Eigen Value Problem): This project explores the use of structural intrinsic properties such as natural frequencies for computing the location and magnitude of structural damage (stiffness reduction).
+  - Sensitivity-Based Damage Identification Algorithm using Vibration Data (An Inverse Eigen Value Problem): This project explores the use of structural intrinsic properties such as natural frequencies for computing the location and magnitude of structural damage (stiffness reduction). [Link](https://arxiv.org/abs/2105.12806)
   -  Indirect Health Monitoring of Bridges: This project deals with damage identification strategies for bridges based on the dynamic response of a passing vehicle.  We have sucessfully integrated Tikhonov Regularization scheme with a signal averaging technique to define a cost function and showed that under some derived mathematical conditions, it is possible to extract the magnitude and location of bridge damage based on dynamic vehicle response data. 
   -  On Unifying Randomized Methods For Inverse Problems: This work unifies the analysis of various randomized methods for solving linear and nonlinear inverse problems by framing the problem in a stochastic optimization setting. By doing so, we show that many randomized methods are variants of a sample average approximation. 
 
