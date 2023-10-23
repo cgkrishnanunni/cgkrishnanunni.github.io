@@ -35,6 +35,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
   - An architecture design strategy inspired from topology optimization: This is an ongoing project that derives an architecture adaptation strategy borrowing ideas from topology optimization.
   - A deep learning framework  for inverse problems: This is an ongoing project that derives a purely data-driven, model-free and, prior-free framework for inverse problems. The framework is inspired from diffusion models and the Ensemble Kalman Inversion framework.
+  - Learning low dimensional latent manifolds for dimension reduction using reinforcement learning: This is an ongoing project that looks at the use of a reinforcement learning strategy for manifold learning.
     
 
 
