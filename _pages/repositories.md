@@ -34,6 +34,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
   - A two stage strategy for neural architecture adaptation: While deep neural networks (DNN) create increasinglysimpler but more useful  representations  of the learning problem layer by layer, such large networks however yieldcomputationally complex optimization problems. Furthermore, despite such successes, the mechanisms behind deep learning remain a mystery and a trial-and-error approach (Architecture search) is often employed to retrieve the best neural network.  This project focus on the development of a layerwise training strategy for progressively adapting neural networks along the depth.
 
   - An architecture design strategy inspired from topology optimization: This is an ongoing project that derives an architecture adaptation strategy borrowing ideas from topology optimization.
+  - A deep learning framework  for inverse problems: This is an ongoing project that derives a purely data-driven, model-free and, prior-free framework for inverse problems. The framework is inspired from diffusion models and the Ensemble Kalman Inversion framework.
     
 
 
