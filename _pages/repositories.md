@@ -26,7 +26,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
   
 - Projects undertaken in **numerical analysis**.
   - Iterative decoupled technique for dynamic response of vehicle-pavement systems: This project focus on developing an iterative decoupled technique for the simulating the dynamic response of vehicle-pavement systems. The key idea of the approach involves decoupling the vehicle-pavement coupled system into two subsystems and solving them independently until the solution has converged using an iterative scheme. We look at various aspects of the method such as rate of convergence etc.
-  - A new look at the convergence of Ensemble Kalman inversion algorithm from a functunal analysis perspective: 
+  - A new look at the convergence of Ensemble Kalman inversion algorithm from a functunal analysis perspective: This is an ongoing research that looks at the Ensemble Kalman filter from a new viewpoint. We provide some new results on non-asymptotic convergence of EnKF. We also provide new proofs on the convergence of Ensemble Kalman Inversion algorithm which is a variant of the EnKF algorithm for inverse problems. 
 
 
 - Projects undertaken in **machine learning**.
