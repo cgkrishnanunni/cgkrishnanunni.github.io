@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-11-25 15:59:00-0400
+date: 2024-3-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Invited talk at the SIAM Texas-Louisana Section on "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation."
+I will be interning at the Machine Intelligence Group, Centre for Applied Scientific Computing (Lawrence Livermore National Laboratory) from June to August, 2024. 
