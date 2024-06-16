@@ -1,14 +1,14 @@
 ---
 layout: post
-date: 2023-5-07 16:11:00-0400
+date: 2024-6-06 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on neural architecture adaptation strategy is on arXiv.
+Selected to receive Travel Award to attend the  <a href="https://uq-mlip2.usacm.org/">USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling, 2024.</a>
 
 <!-- ***
-
+Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on neural architecture adaptation strategy is on arXiv.
 Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
 #### Hipster list
