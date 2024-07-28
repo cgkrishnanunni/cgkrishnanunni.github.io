@@ -47,7 +47,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 ## Recent readings!
 
-- **[On the measure of intelligence]([https://arxiv.org/abs/2105.12806](https://arxiv.org/pdf/1911.01547))**
+- **[On the measure of intelligence](https://arxiv.org/pdf/1911.01547)**
 
 This work by François Chollet (creator of the Keras deep-learning library) attempts to provide a formal definition of intelligence as an agent's ability to adapt to a constantly changing environment and respond appropriately in novel situations. Contemporary Artificial intelligence (AI) community still gravitates towards benchmarking intelligence by comparing the skill exhibited by AIs and humans at specific tasks, such as board games and video games. Chollet argues that solely measuring skill at any given task falls short of measuring intelligence, because skill is heavily modulated by prior knowledge and experience: unlimited priors or unlimited training data allow experimenters to buy arbitrary levels of skills for a system, in a way that masks the system’s own generalization power. The work articulates a new formal definition of intelligence based
 on Algorithmic Information Theory and proposes a set of guidelines for what a general AI benchmark should look like!
