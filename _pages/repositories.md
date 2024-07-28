@@ -45,7 +45,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
     
 
 
-## Recent readings!
+## Interesting reads!
 
 - **[On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547)**
 
