@@ -20,7 +20,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
     
   -  On Unifying Randomized Methods For Inverse Problems: This work unifies the analysis of various randomized methods for solving linear and nonlinear inverse problems by framing the problem in a stochastic optimization setting. By doing so, we show that many randomized methods are variants of a sample average approximation.  [Link](https://iopscience.iop.org/article/10.1088/1361-6420/acd36e/meta)
     
-  -  Transformer-powered surrogate for solving inverse problems via joint modeling with forward process: This is a joint work with Lawrence Livermoore National Laboratory, USA. In this work we trained a transformer architecture based generative model that transports samples from a prior distribution to samples from the posterior parameter distribution conditioned on an input measurement. The method also simultaneously reconstructs the missing details in the input measurement field (Inpainting).
+  -  Transformer-powered surrogate for solving inverse problems via joint modeling with forward process: This is a joint work with Lawrence Livermoore National Laboratory, USA. In this work we trained a transformer architecture based generative model that transports samples from a prior distribution to samples from the posterior parameter distribution conditioned on an input measurement. The method also simultaneously reconstructs the missing details in the input measurement field (Inpainting). High level details are provided [HERE](/assets/pdf/summery_internship.pdf)
 
 - Projects undertaken in **mathematical modelling**.
 
