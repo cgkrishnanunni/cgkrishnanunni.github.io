@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Best poster at the Workshop on Scientific Machine Learning, October 2024. The poster talks about "approaches for deep neural network architecture adaptation". Poster is provided [HERE](/assets/pdf/krishnanunni_poster.pdf).
+Best poster at the Workshop on Scientific Machine Learning, October 2024. The poster talks about "approaches for deep neural network architecture adaptation". Poster is provided [HERE](/assets/pdf/Krishnanunni_poster.pdf).
