@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Best poster at the <a href="[https://uq-mlip2.usacm.org/](https://sites.utexas.edu/scimlworkshop/)">Workshop on Scientific Machine Learning, October 2024</a>. The poster talks about "approaches for deep neural network architecture adaptation". Poster is provided [HERE](/assets/pdf/Krishnanunni_poster.pdf).
+Best poster at the <a href="https://sites.utexas.edu/scimlworkshop/">Workshop on Scientific Machine Learning, October 2024.</a> The poster talks about "approaches for deep neural network architecture adaptation". Poster is provided [HERE](/assets/pdf/Krishnanunni_poster.pdf).
