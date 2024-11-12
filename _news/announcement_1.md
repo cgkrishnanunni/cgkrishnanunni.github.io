@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-3-25 15:59:00-0400
+date: 2025-10-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-I will be interning at the <a href="https://computing.llnl.gov/casc/machine-intelligence-group">Machine Intelligence Group</a>, Centre for Applied Scientific Computing (Lawrence Livermore National Laboratory) from June to August, 2024. 
+Best poster at the Workshop on Scientific Machine Learning, October 2024. The poster talks about "approaches for deep neural network architecture adaptation". Poster is provided [HERE](/assets/pdf/krishnanunni_poster.pdf).
