@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on "an adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture" has been accepted for publication in <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering">Computer Methods in Applied Mechanics and Engineering</a>.
+Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on "An adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture" has been accepted for publication in <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering">Computer Methods in Applied Mechanics and Engineering</a>.
 
 
 <!-- ***
