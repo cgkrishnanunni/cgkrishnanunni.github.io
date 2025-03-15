@@ -1,11 +1,12 @@
 ---
 layout: post
-date: 2024-6-06 16:11:00-0400
+date: 2025-3-03 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Selected to receive Travel Award to attend the  <a href="https://uq-mlip2.usacm.org/">USACM Thematic Conference on Uncertainty Quantification for Machine Learning Integrated Physics Modeling, 2024.</a>
+Our <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acd36e/meta">new paper</a> on "an adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture" is accepted for publication in <a href="https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering">Computer Methods in Applied Mechanics and Engineering</a>.
+
 
 <!-- ***
 Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on neural architecture adaptation strategy is on arXiv.
