@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new paper on a "topological derivative approach for deep neural network architecture adaptation" is available in <a href="https://arxiv.org/abs/2502.06885">arXiv</a>.
+Our new paper on a "Topological derivative approach for deep neural network architecture adaptation" is available in <a href="https://arxiv.org/abs/2502.06885">arXiv</a>.
