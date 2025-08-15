@@ -10,6 +10,7 @@ nav_order: 2
 **Invited talks**
 
  - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
+ - "An adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture",U. S. National Congress on Computational Mechanics, New Mexico, July 23-27, 2023.
  - "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation", 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, November 4-6. 
  - " Model-Constrained Approach for Neural Architecture Design with application to UQ", SIAM UQ 2022, Atlanta, Georgia, April 12-15.
  - "Inverse problems in vehicle-bridge interaction dynamics", Global Meet on Civil, Structural and Environmental Engineering, Dubai.
