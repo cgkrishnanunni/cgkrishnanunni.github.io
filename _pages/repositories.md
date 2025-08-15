@@ -39,13 +39,10 @@ It has always fascinated me to see what mathematics can do especially in bringin
   
   - A two stage strategy for neural architecture adaptation: While deep neural networks (DNN) create increasingly simpler but more useful  representations  of the learning problem layer by layer, such large networks however yieldcomputationally complex optimization problems. Furthermore, despite such successes, the mechanisms behind deep learning remain a mystery and a trial-and-error approach (Architecture search) is often employed to retrieve the best neural network.  This project focus on the development of a layerwise training strategy for progressively adapting neural networks along the depth. [Link](https://arxiv.org/abs/2211.06860)
 
-  - Topological derivative approach for deep neural network architecture adaptation: We developed a neural network architecture adaptation strategy borrowing ideas from topology optimization in mechanics [Link](https://arxiv.org/abs/2502.06885).
+  - Topological derivative approach for deep neural network architecture adaptation: We developed a neural network architecture adaptation strategy borrowing ideas from topology optimization in mechanics.  At the heart of our approach are two key ingredients: i) the introduction of a shape functional to be minimized, which depends on neural network topology, and ii) the introduction of a topological derivative of the shape functional with respect to the neural network topology. [Link](https://arxiv.org/abs/2502.06885).
     
-  - A deep learning framework  for inverse problems: This is an ongoing project that derives a purely data-driven, model-free and, prior-free framework for inverse problems. The framework is inspired from diffusion models and the Ensemble Kalman Inversion framework.
+  - Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations: Solving stiff ordinary differential equations (StODEs) requires sophisticated numerical solvers, which are often computationally expensive. In particular, StODE's often cannot be solved with traditional explicit time integration schemes and one must resort to costly implicit methods to compute solutions. On the other hand, state-of-the-art machine learning (ML) based methods such as Neural ODE (NODE) poorly handle the timescale separation of various elements of the solutions to StODEs and require expensive implicit solvers for integration at inference time. In this work, we embark on a different path which involves learning a latent dynamics for StODEs, in which one completely avoids numerical integration [Link](https://arxiv.org/abs/2501.08423).
     
-  - Learning low dimensional latent manifolds for dimension reduction using reinforcement learning: This is an ongoing project that looks at the use of a reinforcement learning strategy for manifold learning.
-    
-
 
 ## Interesting reads!
 
