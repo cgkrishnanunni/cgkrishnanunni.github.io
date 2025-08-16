@@ -50,8 +50,9 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
   
-- **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**:  MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
+- **[Numerical Simulation of Vehicle-Pavement Coupled Dynamical System](https://github.com/cgkrishnanunni/Decoupled-technique-for-Viscoelastic-Euler-Bernoulli-Beam-pavement-model)**
 
+   MATLAB implementation of a novel iterative technique for simulating the dynamics of a vehicle-pavement coupled system. This repo contains simulation of a novel mathematical model that we developed in the context of vehicle-pavement couspled systems.
 
 ## Interesting reads!
 
