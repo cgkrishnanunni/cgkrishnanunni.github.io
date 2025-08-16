@@ -56,7 +56,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[Indirect health monitoring of bridges using Tikhonov regularization scheme and signal averaging technique](https://github.com/cgkrishnanunni/INDIRECT-HEALTH-MONITORING-OF-BRIDGES-USING-TIKHONOV-REGULARIZATION-SCHEME-AND-SIGNAL-AVERAGING-TECH)**
 
-   MATLAB implementation of a damage identification strategies for bridges based on the dynamic response of a passing vehicle.
+   MATLAB implementation of a damage identification algorithm for bridges based on the dynamic response of a passing vehicle.
 
 ## Interesting reads!
 
