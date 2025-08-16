@@ -46,11 +46,11 @@ It has always fascinated me to see what mathematics can do especially in bringin
     
 ## Project Repositories
 
-- **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**
+- **[Sensitivity-based damage identification algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**
 
    MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
   
-- **[Numerical Simulation of Vehicle-Pavement Coupled Dynamical System](https://github.com/cgkrishnanunni/Decoupled-technique-for-Viscoelastic-Euler-Bernoulli-Beam-pavement-model)**
+- **[Numerical Simulation of vehicle-pavement coupled dynamical system](https://github.com/cgkrishnanunni/Decoupled-technique-for-Viscoelastic-Euler-Bernoulli-Beam-pavement-model)**
 
    MATLAB implementation of a novel iterative technique for simulating the dynamics of a vehicle-pavement coupled system. This repository contains simulation of a novel mathematical model that we developed in the context of vehicle-pavement coupled systems.
 
@@ -58,7 +58,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    MATLAB implementation of a damage identification algorithm for bridges based on the dynamic response of a passing vehicle.
 
-- **[Sample Finite Element Codes for Elasticity](https://github.com/cgkrishnanunni/SAMPLE-FINITE-ELEMENT-CODES-FOR-PLANE-FRAME-TRUSS-QUAD-ELEMENTS)**
+- **[Sample finite element codes for elasticity](https://github.com/cgkrishnanunni/SAMPLE-FINITE-ELEMENT-CODES-FOR-PLANE-FRAME-TRUSS-QUAD-ELEMENTS)**
 
    C++ implementations of basic elements (Quadrilateral element, Plane frame, Plane truss etc) developed as a part of the 'Computational Elasticity' Course by Prof. Mohammed Ameen, NIT Calicut.
 
@@ -69,6 +69,10 @@ It has always fascinated me to see what mathematics can do especially in bringin
 - **[Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations](Will be updated soon)**
 
    Jax implementation of the Lilan approach written by Cole Nockolds, UT Austin.
+
+- **[A Machine Learning approach for black-box optimization](Will be updated soon)**
+
+   Pytorch implementation of an approach for black-box optimization-an alternative to Bayesian optimization. The method uses ideas from topological derivative approach (developed in my PhD) and statistical active learning.
 
 
 ## Interesting reads!
