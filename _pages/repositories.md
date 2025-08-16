@@ -68,7 +68,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations](Will be updated soon)**
 
-   Jax implementation of the Lilan approach led by Cole Nockolds.  
+   Jax implementation of the Lilan approach written by Cole Nockolds, UT Austin.
 
 
 ## Interesting reads!
