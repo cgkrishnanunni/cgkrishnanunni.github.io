@@ -72,7 +72,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[A Machine Learning approach for black-box optimization](Will be updated soon)**
 
-   Pytorch implementation of an approach for black-box optimization-an alternative to Bayesian optimization. The method uses ideas from topological derivative approach (developed in my PhD) and statistical active learning.
+   Pytorch implementation of an approach for black-box optimization-an alternative to Bayesian optimization. The method uses ideas from topological derivative approach (developed in my PhD) and statistical active learning framework.
 
 
 ## Interesting reads!
