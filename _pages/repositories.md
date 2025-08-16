@@ -62,15 +62,15 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    C++ implementations of basic elements (Quadrilateral element, Plane frame, Plane truss etc) developed as a part of the 'Computational Elasticity' Course by Prof. Mohammed Ameen, NIT Calicut.
 
-- **[Topological derivative approach for deep neural network architecture adaptation](Will be updated soon)**
+- **Topological derivative approach for deep neural network architecture adaptation (Will be updated soon)**
 
    PyTorch implementation of the architecture adaptation strategy developed as a part of my PhD.
 
-- **Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations(Will be updated soon)**
+- **Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations (Will be updated soon)**
 
    Jax implementation of the Lilan approach written by Cole Nockolds, UT Austin. 
 
-- **A Machine Learning approach for black-box optimization(Will be updated soon)**
+- **A Machine Learning approach for black-box optimization (Will be updated soon)**
 
    Pytorch implementation of an approach for black-box optimization-an alternative to Bayesian optimization. The method uses ideas from topological derivative approach (developed in my PhD) and statistical active learning framework.
 
