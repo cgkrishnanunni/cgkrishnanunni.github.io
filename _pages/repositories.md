@@ -64,9 +64,12 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[Topological derivative approach for deep neural network architecture adaptation](Will be updated soon)**
 
-   PyTorch implementation of the architecture adaptation strategy developed as a part of my PhD. 
+   PyTorch implementation of the architecture adaptation strategy developed as a part of my PhD.
 
-  
+- **[Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations](Will be updated soon)**
+
+   Jax implementation of the Lilan approach led by Cole Nockolds.  
+
 
 ## Interesting reads!
 
