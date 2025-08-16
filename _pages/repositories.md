@@ -48,7 +48,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**
 
--   MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
+   MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
   
 - **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**:  MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
 
