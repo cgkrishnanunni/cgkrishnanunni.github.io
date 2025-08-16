@@ -58,6 +58,10 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    MATLAB implementation of a damage identification algorithm for bridges based on the dynamic response of a passing vehicle.
 
+- **[Sample Finite Element Codes for Elasticity](https://github.com/cgkrishnanunni/SAMPLE-FINITE-ELEMENT-CODES-FOR-PLANE-FRAME-TRUSS-QUAD-ELEMENTS)**
+
+   C++ implementations of basic elements (Quadrilateral element, Plane frame, Plane truss etc) developed as a part of the 'Computational Elasticity' Course by Prof. Mohammed Ameen, NIT Calicut.
+
 ## Interesting reads!
 
 - **[On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547)**
