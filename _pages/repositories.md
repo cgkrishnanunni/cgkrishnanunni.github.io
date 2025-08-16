@@ -45,7 +45,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
     
 ## Project Repositories
 
-**[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**
+- **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**
 
 ## Interesting reads!
 
