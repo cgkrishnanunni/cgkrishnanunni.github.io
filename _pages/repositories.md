@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /repositories/
-title: research
+title: Research
 description: This page provides an overview of some of my research projects.
 nav: true
 nav_order: 3
