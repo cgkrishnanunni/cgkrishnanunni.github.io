@@ -52,7 +52,11 @@ It has always fascinated me to see what mathematics can do especially in bringin
   
 - **[Numerical Simulation of Vehicle-Pavement Coupled Dynamical System](https://github.com/cgkrishnanunni/Decoupled-technique-for-Viscoelastic-Euler-Bernoulli-Beam-pavement-model)**
 
-   MATLAB implementation of a novel iterative technique for simulating the dynamics of a vehicle-pavement coupled system. This repo contains simulation of a novel mathematical model that we developed in the context of vehicle-pavement couspled systems.
+   MATLAB implementation of a novel iterative technique for simulating the dynamics of a vehicle-pavement coupled system. This repository contains simulation of a novel mathematical model that we developed in the context of vehicle-pavement coupled systems.
+
+- **[Indirect health monitoring of bridges using Tikhonov regularization scheme and signal averaging technique](https://github.com/cgkrishnanunni/INDIRECT-HEALTH-MONITORING-OF-BRIDGES-USING-TIKHONOV-REGULARIZATION-SCHEME-AND-SIGNAL-AVERAGING-TECH)**
+
+   MATLAB implementation of a damage identification strategies for bridges based on the dynamic response of a passing vehicle.
 
 ## Interesting reads!
 
