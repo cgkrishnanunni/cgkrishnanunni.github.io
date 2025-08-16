@@ -42,10 +42,12 @@ It has always fascinated me to see what mathematics can do especially in bringin
   - Topological derivative approach for deep neural network architecture adaptation: We developed a neural network architecture adaptation strategy borrowing ideas from topology optimization in mechanics.  At the heart of our approach are two key ingredients: i) the introduction of a shape functional to be minimized, which depends on neural network topology, and ii) the introduction of a topological derivative of the shape functional with respect to the neural network topology. [Link](https://arxiv.org/abs/2502.06885).
     
   - Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations: Solving stiff ordinary differential equations (StODEs) requires sophisticated numerical solvers, which are often computationally expensive. In particular, StODE's often cannot be solved with traditional explicit time integration schemes and one must resort to costly implicit methods to compute solutions. On the other hand, state-of-the-art machine learning (ML) based methods such as Neural ODE (NODE) poorly handle the timescale separation of various elements of the solutions to StODEs and require expensive implicit solvers for integration at inference time. In this work, we embark on a different path which involves learning a latent dynamics for StODEs, in which one completely avoids numerical integration [Link](https://arxiv.org/abs/2501.08423).
+
     
 ## Project Repositories
 
 - **[Sensitivity-Based Damage Identification Algorithm](https://github.com/cgkrishnanunni/Sensitivity-based-Damage-Detection)**:  MATLAB implementation of a fast optimization strategy for solving an Inverse Eigen Value Problem in structural mechanics.
+
 
 ## Interesting reads!
 
