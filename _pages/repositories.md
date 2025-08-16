@@ -62,6 +62,12 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    C++ implementations of basic elements (Quadrilateral element, Plane frame, Plane truss etc) developed as a part of the 'Computational Elasticity' Course by Prof. Mohammed Ameen, NIT Calicut.
 
+- **[Topological derivative approach for deep neural network architecture adaptation](Will be updated soon)**
+
+   PyTorch implementation of the architecture adaptation strategy developed as a part of my PhD. 
+
+  
+
 ## Interesting reads!
 
 - **[On the Measure of Intelligence](https://arxiv.org/pdf/1911.01547)**
