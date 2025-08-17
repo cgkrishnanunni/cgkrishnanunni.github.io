@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be coorganizing the <a href="https://sites.google.com/view/siamtxla2025/home?authuser=0">SIAM TXLA 2025 Sectional meeting</a> hosted by the Oden Institute of Computational Engineering and Sciences, UT Austin. Minisymposium proposals can be submitted <a href="https://sites.google.com/view/siamtxla2025/submissions?authuser=0">HERE</a>.
+I will be coorganizing the <a href="https://sites.google.com/view/siamtxla2025/home?authuser=0">SIAM TXLA 2025 Sectional meeting</a> hosted by the Oden Institute of Computational Engineering and Sciences, UT Austin. 
