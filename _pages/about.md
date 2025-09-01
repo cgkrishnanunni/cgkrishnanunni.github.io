@@ -22,9 +22,11 @@ I am a PhD scholar in the [Department of Aerospace Engineering & Engineering Mec
 
 I come from a mechanics background where I undertook projects on signal processing, optimization, and mathematical modelling in solid mechanics with [Prof. B. N. Rao](https://scholar.google.com/citations?user=gklEogwAAAAJ&hl=en&oi=ao) at IIT Madras and [Prof. Mohammed Ameen](http://www.nitc.ac.in/index.php/?url=users/view/77/7/3) at NIT Calicut. I was fortunate to be awarded a research fellowship to work with [Prof. Phoolan Prasad](https://en.wikipedia.org/wiki/Phoolan_Prasad) at the [Indian Institute of Science, Bangalore](https://math.iisc.ac.in) who exposed me to rigorous mathematics behind nonlinear hyperbolic waves and in particular allowed me to appreciate the beauty of mathematics in mechanics. Currently, my broad interest lies in anything creative and mathematically beautiful. In particular, I work on projects in the field of inverse problems, machine learning, nonlinear estimation theory, and mathematical modelling. 
 
-# Current Research Focus
+## Current Research Focus
 
-Machine learning methods for science and engineering have gained significant popularity in recent years. In contrast, my research takes the opposite direction: I draw inspiration from techniques in mechanics and numerical analysis to develop novel machine learning algorithms. Specifically, my PhD thesis addresses the problem of neural network architecture adaptation by leveraging concepts from topology optimization and adaptive mesh refinement strategies in the finite element method. This results in a principled and efficient alternative to conventional neural architecture search (NAS) approaches.
+Machine learning methods for science and engineering have gained significant popularity in recent years. In contrast, my research takes the opposite direction: I draw inspiration from techniques in mechanics and numerical analysis to develop novel machine learning algorithms. Specifically, my PhD thesis addresses the problem of neural network architecture adaptation by leveraging concepts from topology optimization and adaptive mesh refinement strategies in the finite element method. This results in a principled and efficient alternative to conventional neural architecture search (NAS) approaches [More details available here](https://arxiv.org/abs/2502.06885).
+
+Currently, I am interested in generative modeling for prior calibration in Bayesian inverse problems, as well as in developing derivative-free optimization methods for black-box optimization.
        
 
 
