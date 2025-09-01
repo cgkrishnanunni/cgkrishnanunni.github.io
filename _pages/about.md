@@ -24,7 +24,7 @@ I come from a mechanics background where I undertook projects on signal processi
 
 ## Current Research Focus
 
-Machine learning methods for science and engineering have gained significant popularity in recent years. In contrast, my research takes the opposite direction: I draw inspiration from techniques in mechanics and numerical analysis to develop novel machine learning algorithms. Specifically, my PhD thesis addresses the problem of neural network architecture adaptation by leveraging concepts from topology optimization and adaptive mesh refinement strategies in the finite element method. This results in a principled and efficient alternative to conventional neural architecture search (NAS) approaches [More details available here](https://arxiv.org/abs/2502.06885).
+Machine learning methods for science and engineering have gained significant popularity in recent years (Scientific Machine Learning). In contrast, my research takes the opposite direction: I draw inspiration from techniques in mechanics and numerical analysis to develop novel machine learning algorithms. Specifically, my PhD thesis addresses the problem of neural network architecture adaptation by leveraging concepts from topology optimization and adaptive mesh refinement strategies in the finite element method. This results in a principled and efficient alternative to conventional neural architecture search (NAS) approaches [More details available here](https://arxiv.org/abs/2502.06885).
 
 Currently, I am interested in generative modeling for prior calibration in Bayesian inverse problems, as well as in developing derivative-free optimization methods for black-box optimization.
        
