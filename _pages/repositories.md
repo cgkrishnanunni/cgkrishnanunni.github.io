@@ -68,7 +68,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
 - **[LiLaN: A Linear Latent Network as the Solution Operator for Real-Time Solutions to Stiff Nonlinear Ordinary Differential Equations](https://github.com/colenockolds/LiLaN-Robertson-ODE)**
 
-   Jax implementation of the Lilan approach. 
+   Jax implementation of the [Lilan](https://arxiv.org/abs/2501.08423) approach. 
 
 - **A Machine Learning approach for black-box optimization (Will be updated soon)**
 
