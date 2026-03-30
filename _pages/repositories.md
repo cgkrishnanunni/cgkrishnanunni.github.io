@@ -66,7 +66,7 @@ It has always fascinated me to see what mathematics can do especially in bringin
 
    PyTorch implementation of the architecture adaptation strategy developed as a part of my PhD.
 
-- **[Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations](https://github.com/colenockolds/LiLaN-Robertson-ODE)**
+- **[LiLaN: A Linear Latent Network as the Solution Operator for Real-Time Solutions to Stiff Nonlinear Ordinary Differential Equations](https://github.com/colenockolds/LiLaN-Robertson-ODE)**
 
    Jax implementation of the Lilan approach. 
 
