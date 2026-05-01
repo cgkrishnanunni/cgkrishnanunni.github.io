@@ -4,4 +4,4 @@ date: 2026-04-1 07:59:00-0400
 inline: true
 related_posts: false
 ---
-High level details on the work conducted at Lawrence Livermore National Laboratory, USA as a part of my summer internship is provided [HERE](/assets/pdf/summery_internship.pdf).
+I successfully defended my PhD thesis titled "Computational Mathematics Approaches to Architecture Design of Deep Neural Network" on April 1. The committe members included  [Dr Tan Bui Thanh](https://users.ices.utexas.edu/~tanbui/), [Dr Thomas J R Hughes](https://users.oden.utexas.edu/~hughes/), Dr Clint Dawson, and [Dr Qiang Liu](https://www.cs.utexas.edu/~lqiang/).
