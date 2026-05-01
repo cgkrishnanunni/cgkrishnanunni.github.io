@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our new work titled "From an Elementary Proof of Error Representation for Hermite Quadrature to a Rediscovery of Legendre Polynomials and Rodrigues For" is available in <a href="https://arxiv.org/abs/2602.18634">arXiv</a>.
+Our new work titled "From an Elementary Proof of Error Representation for Hermite Quadrature to a Rediscovery of Legendre Polynomials and Rodrigues Formula" is available in <a href="https://arxiv.org/abs/2602.18634">arXiv</a>.
