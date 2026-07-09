@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> on "Topological derivative approach for deep neural network architecture adaptation" has been accepted for publication in <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/">SIAM Journal on Scientific Computing</a>.
+Our <a href="https://arxiv.org/abs/2211.06860">new paper</a> "Topological derivative approach for deep neural network architecture adaptation" has been accepted for publication in <a href="https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/">SIAM Journal on Scientific Computing</a>.
 
 
 <!-- ***
