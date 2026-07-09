@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our new paper "Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations" is available in <a href="https://arxiv.org/abs/2501.08423">arXiv</a>.
+Our paper "LiLaN: a linear latent network as the solution operator for real-time solutions to stiff and non-stiff nonlinear ordinary differential equations" has been accepted for publication in <a href="https://link.springer.com/journal/44379">Machine Learning for Computational Science and Engineering </a>.
 
