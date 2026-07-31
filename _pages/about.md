@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.math.uni-heidelberg.de/en'>Heidelberg University</a>. 
+subtitle: <a href='https://www.uni-heidelberg.de/en'>Heidelberg University</a>. 
 
 profile:
   align: right
