@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://oden.utexas.edu/research/centers-and-groups/probabilistic-high-order-inference-computation-estimation-and-simulation/'>Heidelberg University</a>. 
+subtitle: <a href='https://www.math.uni-heidelberg.de/en'>Heidelberg University</a>. 
 
 profile:
   align: right
