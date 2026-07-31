@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>POB 3SEo2B</p>
-    <p>201 E 24th St</p>
-    <p>Austin, Texas 78712</p>
+    <p>Room 4/203</p>
+    <p>Im Neuenheimer Feld 205</p>
+    <p>69120 Heidelberg, Germany</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
