@@ -9,6 +9,7 @@ nav_order: 2
 
 **Invited talks**
 
+ - "LiLaN: A linear latent network approach for solutions to stiff nonlinear ordinary differential equations", Pasteur Labs, USA, USA, September 8, 2026 (upcoming).
  - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
  - "An adaptive and stability-promoting layerwise training approach for sparse deep neural network architecture",U. S. National Congress on Computational Mechanics, New Mexico, July 23-27, 2023.
  - "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation", 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, November 4-6. 
