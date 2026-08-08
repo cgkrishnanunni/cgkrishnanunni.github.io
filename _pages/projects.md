@@ -17,6 +17,6 @@ nav_order: 2
 **Conferences**
 
  - C. G. Krishnanunni, Tan Bui-Thanh, "A two-stage strategy for neural architecture design." USNCCM, Albuquerque, New Mexico, 2023.
- - Suraj Singh, P. M. Anilkumar, C. G. Krishnanunni, B. N. Rao, "Parametric perturbation studies on the behavior of bistable unsymmetrical laminates." International Conference on Theoretical, Applied, Computational and Experimental Mechanics, IIT Kharagpur, India, 12/2021.
+ - C. G. Krishnanunni, Tan Bui-Thanh, "Approaches for deep neural network architecture design." UQMLIP, Virginia, 2024.
  - C. G. Krishnanunni, B. N. Rao, "Timoshenko beam-vehicle coupled dynamic model for pavement roughness identification." US National Congress on Computational Mechanics, Austin, Texas, USA, 7/2019.
  - Shereena O. A, C. G. Krishnanunni, B. N. Rao, "Performance comparison of discrete Kalman filter and Dynamic programming methods for pavement roughness identification." National Congress on Multidisciplinary Design, Analysis, and Optimization (NCMDAO 2019), Bangalore, 03/2019.
