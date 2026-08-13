@@ -24,3 +24,11 @@ State University. Florida, March, 2024.
  - "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation", 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, November 4-6. 
  - C. G. Krishnanunni, B. N. Rao, "Timoshenko beam-vehicle coupled dynamic model for pavement roughness identification." US National Congress on Computational Mechanics, Austin, Texas, USA, 7/2019.
  - Shereena O. A, C. G. Krishnanunni, B. N. Rao, "Performance comparison of discrete Kalman filter and Dynamic programming methods for pavement roughness identification." National Congress on Multidisciplinary Design, Analysis, and Optimization (NCMDAO 2019), Bangalore, 03/2019.
+
+**Selected Awards**
+
+- Warren A. and Alice L. Meyer Endowed Scholarship, Cockrell School of Engineering, UT Austin (2024)
+- Best Poster Award, Workshop on Scientific Machine Learning, UT Austin (2024)
+- Best MS Thesis Award, IIT Madras (2020)
+- Best B.Tech Project Award, NIT Calicut & Association of Engineers Kerala (2017)
+- Summer Research Fellowship, Indian Academy of Sciences / IISc (2015)
