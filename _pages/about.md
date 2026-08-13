@@ -36,9 +36,7 @@ Full details and the thesis are available [(Here)](https://repositories.lib.utex
 
 ### Current Research Focus
 
-My current research interests span generative modeling for prior calibration in Bayesian inverse problems, derivative-free methods for black-box optimization, and the theoretical foundations of deep learning.
-       
-
+At Heidelberg, working with Prof. Jakob Zech, my focus is on the theoretical foundations of deep learning. I am currently working on expression rate analysis for Bayesian neural networks. Alongside this, I am interested in generative models for prior calibration in Bayesian inverse problems, and derivative-free methods for black-box optimization.
 
 
 
