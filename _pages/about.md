@@ -29,6 +29,11 @@ Most neural architecture search methods treat network structure as a discrete hy
 
 Full details and the thesis are available [(Here)](https://repositories.lib.utexas.edu/items/f35a9da6-19de-4650-9e9c-30253b611641).
 
+<div style="text-align: center; margin: 1.5rem 0;">
+  <img src="/assets/img/topo.gif" alt="Topological derivative approach for neural network architecture adaptation" style="max-width: 100%; border-radius: 6px;">
+  <p style="font-size: 0.85rem; color: #666; margin-top: 0.5rem; font-style: italic;">Topological derivative approach: starting from a small network, layers are inserted based on mathematically derived optimality conditions.</p>
+</div>
+
 ### Current Research Focus
 
 My current research interests span generative modeling for prior calibration in Bayesian inverse problems, derivative-free methods for black-box optimization, and the theoretical foundations of deep learning.
