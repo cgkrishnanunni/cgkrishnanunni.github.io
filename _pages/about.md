@@ -25,7 +25,9 @@ I come from a mechanics background where I undertook projects on signal processi
 
 ### Research Focus of my PhD Thesis
 
-Machine learning methods for science and engineering have gained significant popularity in recent years (Scientific Machine Learning). In contrast, my research takes the opposite direction: I draw inspiration from techniques in mechanics and numerical analysis to develop novel machine learning algorithms. Specifically, my PhD thesis addresses the problem of neural network architecture adaptation by leveraging concepts from topology optimization and adaptive mesh refinement strategies in the finite element method. This results in a principled and efficient alternative to conventional neural architecture search (NAS) approaches [(More details available here)](https://arxiv.org/abs/2502.06885).
+Most neural architecture search methods treat network structure as a discrete hyperparameter to tune by trial and error. My PhD thesis takes a different path. I ask whether there exist continuous mathematical objects which can be used to inform where, and how to grow a neural network, and derive such objects rigorously. The central contribution is to define a network topological derivative for neural networks, borrowing ideas from topology optimization in mechanics. We ask key questions such as: in what sense does adding a layer constitute a perturbation of a neural network graph, and answer them in a mathematically principled way. Other contributions in the thesis involve the design of the LiLaN architecture for simulating stiff ODE dynamics and proving a universal approximation theorem for LiLaN.
+
+Full details and the thesis are available [(Here)](https://repositories.lib.utexas.edu/items/f35a9da6-19de-4650-9e9c-30253b611641).
 
 ### Current Research Focus
 
