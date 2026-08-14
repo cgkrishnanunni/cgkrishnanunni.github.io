@@ -12,6 +12,7 @@ profile:
     <p>Room 4/203</p>
     <p>Im Neuenheimer Feld 205</p>
     <p>69120 Heidelberg, Germany</p>
+    <p><a href="mailto:krishnanunni@mathi.uni-heidelberg.de">krishnanunni@mathi.uni-heidelberg.de</a></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
