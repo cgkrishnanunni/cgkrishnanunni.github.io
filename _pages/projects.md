@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /projects/
-title: talks
-description: This page includes talks I have given at conferences and other invited talks.
+title: talks & awards
+description: This page includes talks, conferences, and awards.
 nav: true
 nav_order: 2
 ---
