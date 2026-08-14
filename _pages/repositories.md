@@ -10,7 +10,7 @@ nav_order: 3
 
 ## Research Overview
 
-My research sits at the boundary of computational mathematics and machine learning. The central question driving my work is whether we can replace the trial-and-error approach to neural network design with mathematically principled criteria inspired from mechanics, optimal control, and numerical analysis. I approach this by importing frameworks from fields outside machine learning, including topology optimization, adaptive finite elements, and dynamical systems theory, and asking whether they yield new mathematical objects that make the right answer structurally inevitable rather than empirically discovered.
+My research sits at the boundary of computational mathematics and machine learning. I am broadly interested in developing mathematically principled algorithms for scientific machine learning tasks. A recurring theme in my work is the use of tools from one field to answer questions in another, borrowing ideas from topology optimization to inform neural network design, adaptive finite element strategies to drive network growth, and dynamical systems theory to design and theoretically analyze neural surrogates for stiff ordinary differential equations. I am also interested in inverse problems, uncertainty quantification, numerical optimization, and the theoretical foundations of deep learning.
 
 ---
 
