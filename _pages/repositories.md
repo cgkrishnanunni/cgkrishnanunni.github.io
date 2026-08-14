@@ -10,38 +10,41 @@ nav_order: 3
 
 ## Research Overview
 
-My research sits at the boundary of computational mathematics and machine learning. The central question driving my work is: can we replace the trial-and-error approach to neural network design with mathematically principled criteria inspired from mechanics, optimal control, and numerical analysis?
+My research sits at the boundary of computational mathematics and machine learning. The central question driving my work is whether we can replace the trial-and-error approach to neural network design with mathematically principled criteria inspired from mechanics, optimal control, and numerical analysis. I approach this by importing frameworks from fields outside machine learning, including topology optimization, adaptive finite elements, and dynamical systems theory, and asking whether they yield new mathematical objects that make the right answer structurally inevitable rather than empirically discovered.
 
-- Projects undertaken in **inverse problems**.
+---
 
-  - Sensitivity-Based Damage Identification Algorithm using Vibration Data (An Inverse Eigen Value Problem): This project explores the use of structural intrinsic properties such as natural frequencies for computing the location and magnitude of structural damage (stiffness reduction). [Link](https://link.springer.com/article/10.1007/s13349-018-0317-0)
-    
-  -  Indirect Health Monitoring of Bridges: This project deals with damage identification strategies for bridges based on the dynamic response of a passing vehicle.  We have sucessfully integrated Tikhonov Regularization scheme with a signal averaging technique to define a cost function and showed that under some derived mathematical conditions, it is possible to extract the magnitude and location of bridge damage based on dynamic vehicle response data.  [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2686)
-    
-  -  On Unifying Randomized Methods For Inverse Problems: This work unifies the analysis of various randomized methods for solving linear and nonlinear inverse problems by framing the problem in a stochastic optimization setting. By doing so, we show that many randomized methods are variants of a sample average approximation.  [Link](https://iopscience.iop.org/article/10.1088/1361-6420/acd36e/meta)
-    
-  -  Transformer-powered surrogate for solving inverse problems via joint modeling with forward process: This is a joint work with Lawrence Livermoore National Laboratory, USA. In this work we trained a transformer architecture based generative model that transports samples from a prior distribution to samples from the posterior parameter distribution conditioned on an input measurement. The method also simultaneously reconstructs the missing details in the input measurement field (Inpainting). High level details are provided [HERE](/assets/pdf/summery_internship.pdf)
+### PhD Research
 
-- Projects undertaken in **mathematical modelling**.
+- **Topological derivative approach for deep neural network architecture adaptation**: The central contribution is to define a network topological derivative for neural networks, borrowing ideas from topology optimization in mechanics. We ask and answer key questions about what it means for adding a layer to constitute a perturbation of a neural network graph, deriving criteria for where to insert the layer and how to initialize it, all in a mathematically principled way. [Link](https://arxiv.org/abs/2502.06885) *(Accepted, [SIAM Journal on Scientific Computing](https://www.siam.org/publications/siam-journals/siam-journal-on-scientific-computing/))*
 
-  - A novel mathematical model for simulating the nonlinear vehicle–pavement coupled dynamics: In this project, a non-linear vehicle-pavement interaction model has been proposed. The Galerkin method and Runge–Kutta method are employed to discretise the differential equations arising from the dynamic equations of motion of the system. The effect of coupling action on pavement displacements and vehicle body vertical displacement is examined numerically with the developed model.  [Link](https://www.tandfonline.com/doi/abs/10.1080/10298436.2018.1562189)
+- **LiLaN: A linear latent network approach for real-time solutions of stiff nonlinear ordinary differential equations**: Solving stiff ODEs requires sophisticated numerical solvers that are often computationally expensive. State-of-the-art machine learning methods such as [Neural ODE](https://arxiv.org/abs/1806.07366) poorly handle timescale separation and require expensive implicit solvers at inference time. LiLaN takes a different path by learning a latent dynamics in which integration becomes analytic, completely avoiding numerical integration. We prove a universal approximation theorem for LiLaN, establishing that the approach is theoretically grounded and not merely a practical heuristic. [Link](https://arxiv.org/abs/2501.08423) *(Accepted, [Machine Learning for Computational Science and Engineering](https://link.springer.com/journal/44379))*
 
-  - Multi-patch epidemic models with partial mobility, residency, and demography:  In this work, a multi-patch epidemic model is proposed that take into account the effects of human mobility on the evolution of disease dynamics in a multi-population environment. In particular, the work develops  SEIRS multi-patch and multi-group epidemic models to practically account for distinct epidemiological-status-dependent mobilities in each patch.  [Link](https://www.sciencedirect.com/science/article/abs/pii/S096007792300591X)
-  
-- Projects undertaken in **numerical analysis**.
-  
-  - Iterative decoupled technique for dynamic response of vehicle-pavement systems: This project focus on developing an iterative decoupled technique for the simulating the dynamic response of vehicle-pavement systems. The key idea of the approach involves decoupling the vehicle-pavement coupled system into two subsystems and solving them independently until the solution has converged using an iterative scheme. We look at various aspects of the method such as rate of convergence etc. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0141029618334825)
-    
-  - A new look at the convergence of Ensemble Kalman inversion algorithm from a functunal analysis perspective: This is an ongoing research that looks at the Ensemble Kalman filter from a new viewpoint. We provide some new results on non-asymptotic convergence of EnKF. We also provide new proofs on the convergence of Ensemble Kalman Inversion algorithm which is a variant of the EnKF algorithm for inverse problems. 
+- **A two-stage strategy for neural architecture adaptation**: This project develops a layerwise training strategy for progressively adapting neural networks along the depth, with a stability-promoting criterion that determines when a layer has saturated and a new one should be added. [Link](https://arxiv.org/abs/2211.06860) *(Published, [Computer Methods in Applied Mechanics and Engineering](https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering))*
 
+- **On unifying randomized methods for inverse problems**: This work unifies the analysis of various randomized methods for solving linear and nonlinear inverse problems by framing the problem in a stochastic optimization setting. By doing so, we show that many randomized methods are variants of a sample average approximation. [Link](https://iopscience.iop.org/article/10.1088/1361-6420/acd36e/meta) *(Published, [Inverse Problems](https://iopscience.iop.org/journal/0266-5611))*
 
-- Projects undertaken in **machine learning**.
-  
-  - A two stage strategy for neural architecture adaptation: While deep neural networks (DNN) create increasingly simpler but more useful  representations  of the learning problem layer by layer, such large networks however yieldcomputationally complex optimization problems. Furthermore, despite such successes, the mechanisms behind deep learning remain a mystery and a trial-and-error approach (Architecture search) is often employed to retrieve the best neural network.  This project focus on the development of a layerwise training strategy for progressively adapting neural networks along the depth. [Link](https://arxiv.org/abs/2211.06860)
+- **A new look at the Ensemble Kalman filter for inverse problems**: This work examines the Ensemble Kalman filter from a new viewpoint via Lagrangian duality. We provide new results on non-asymptotic convergence of the EnKF and new proofs on the convergence of the Ensemble Kalman Inversion algorithm for inverse problems. *(Under review, [Inverse Problems](https://iopscience.iop.org/journal/0266-5611))*
 
-  - Topological derivative approach for deep neural network architecture adaptation: We developed a neural network architecture adaptation strategy borrowing ideas from topology optimization in mechanics.  At the heart of our approach are two key ingredients: i) the introduction of a shape functional to be minimized, which depends on neural network topology, and ii) the introduction of a topological derivative of the shape functional with respect to the neural network topology. [Link](https://arxiv.org/abs/2502.06885).
-    
-  - Lilan: A linear latent network approach for real-time solutions of stiff, nonlinear, ordinary differential equations: Solving stiff ordinary differential equations (StODEs) requires sophisticated numerical solvers, which are often computationally expensive. In particular, StODE's often cannot be solved with traditional explicit time integration schemes and one must resort to costly implicit methods to compute solutions. On the other hand, state-of-the-art machine learning (ML) based methods such as Neural ODE (NODE) poorly handle the timescale separation of various elements of the solutions to StODEs and require expensive implicit solvers for integration at inference time. In this work, we embark on a different path which involves learning a latent dynamics for StODEs, in which one completely avoids numerical integration [Link](https://arxiv.org/abs/2501.08423).
+- **Multi-patch epidemic models with partial mobility, residency, and demography**: A multi-patch SEIRS epidemic model that accounts for the effects of human mobility on the evolution of disease dynamics in a multi-population environment, with distinct epidemiological-status-dependent mobilities in each patch. [Link](https://www.sciencedirect.com/science/article/abs/pii/S096007792300591X) *(Published, [Chaos, Solitons & Fractals](https://www.sciencedirect.com/journal/chaos-solitons-and-fractals))*
+
+- **Transformer-powered surrogate for solving inverse problems**: A joint work with [Lawrence Livermore National Laboratory](https://www.llnl.gov/), USA. A transformer-based generative model that transports samples from a prior distribution to the posterior parameter distribution conditioned on an input measurement, while simultaneously reconstructing missing details via inpainting. [Details](/assets/pdf/summery_internship.pdf)
+
+---
+
+### Earlier Research
+
+The following projects were undertaken during my M.Tech at [IIT Madras](https://www.iitm.ac.in) and B.Tech at [NIT Calicut](https://nitc.ac.in) (2013–2020), forming the mechanics and computational background behind my PhD work.
+
+- **Indirect health monitoring of bridges**: Damage identification for bridges based on the dynamic response of a passing vehicle. We integrate Tikhonov regularization with a signal averaging technique and derive mathematical conditions under which bridge damage magnitude and location can be extracted from vehicle response data alone. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2686)
+
+- **Sensitivity-based damage identification using vibration data**: Structural intrinsic properties such as natural frequencies are used to compute the location and magnitude of structural damage via an inverse eigenvalue problem. [Link](https://link.springer.com/article/10.1007/s13349-018-0317-0)
+
+- **Iterative decoupled technique for vehicle-pavement systems**: Decouples the vehicle-pavement system into two subsystems solved independently via an iterative scheme until convergence, with analysis of convergence rate. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0141029618334825)
+
+- **Nonlinear vehicle-pavement coupled dynamics**: A nonlinear vehicle-pavement interaction model using the Galerkin and Runge-Kutta methods, examining the effect of coupling on pavement and vehicle displacements. [Link](https://www.tandfonline.com/doi/abs/10.1080/10298436.2018.1562189)
+
+---
 
     
 ## Project Repositories
