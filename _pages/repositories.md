@@ -28,7 +28,7 @@ My research sits at the boundary of computational mathematics and machine learni
 
 - **Multi-patch epidemic models with partial mobility, residency, and demography**: A multi-patch SEIRS epidemic model that accounts for the effects of human mobility on the evolution of disease dynamics in a multi-population environment. [Link](https://www.sciencedirect.com/science/article/abs/pii/S096007792300591X) *(Published, [Chaos, Solitons & Fractals](https://www.sciencedirect.com/journal/chaos-solitons-and-fractals))*
 
-- **Transformer-powered surrogate for solving inverse problems**: A joint work with [Lawrence Livermore National Laboratory](https://www.llnl.gov/), USA. A transformer-based generative model that transports samples from a prior distribution to the posterior parameter distribution conditioned on an input measurement, while simultaneously reconstructing missing details via inpainting. [Details](/assets/pdf/summery_internship.pdf)
+- **Transformer-powered surrogate for solving inverse problems**: A joint work with [Lawrence Livermore National Laboratory](https://www.llnl.gov/), USA. A transformer-based generative model that transports samples from a prior distribution to the posterior parameter distribution conditioned on an input measurement (observation), while simultaneously reconstructing missing details in the observation via inpainting. [Details](/assets/pdf/summery_internship.pdf)
 
 ---
 
