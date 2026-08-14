@@ -36,13 +36,13 @@ My research sits at the boundary of computational mathematics and machine learni
 
 The following projects were undertaken during my M.Tech at [IIT Madras](https://www.iitm.ac.in) and B.Tech at [NIT Calicut](https://nitc.ac.in) (2013–2020), forming the mechanics and computational background behind my PhD work.
 
-- **Indirect health monitoring of bridges**: Damage identification for bridges based on the dynamic response of a passing vehicle. We integrate Tikhonov regularization with a signal averaging technique and derive mathematical conditions under which bridge damage magnitude and location can be extracted from vehicle response data alone. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2686)
+- **Indirect health monitoring of bridges**: Damage identification for bridges based on the dynamic response of a passing vehicle. We integrate Tikhonov regularization with a signal averaging technique and derive conditions under which bridge damage magnitude and location can be extracted from vehicle response data alone. [Link](https://onlinelibrary.wiley.com/doi/abs/10.1002/stc.2686)
 
-- **Sensitivity-based damage identification using vibration data**: Structural intrinsic properties such as natural frequencies are used to compute the location and magnitude of structural damage via an inverse eigenvalue problem. [Link](https://link.springer.com/article/10.1007/s13349-018-0317-0)
+- **Sensitivity-based damage identification using vibration data**: Structural intrinsic properties such as natural frequencies are used to compute the location and magnitude of structural damage via solving an inverse eigenvalue problem. [Link](https://link.springer.com/article/10.1007/s13349-018-0317-0)
 
-- **Iterative decoupled technique for vehicle-pavement systems**: Decouples the vehicle-pavement system into two subsystems solved independently via an iterative scheme until convergence, with analysis of convergence rate. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0141029618334825)
+- **Iterative decoupled technique for vehicle-pavement systems**: Decouples the vehicle-pavement system into two subsystems solved independently via an iterative scheme until convergence. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0141029618334825)
 
-- **Nonlinear vehicle-pavement coupled dynamics**: A nonlinear vehicle-pavement interaction model using the Galerkin and Runge-Kutta methods, examining the effect of coupling on pavement and vehicle displacements. [Link](https://www.tandfonline.com/doi/abs/10.1080/10298436.2018.1562189)
+- **Nonlinear vehicle-pavement coupled dynamics**: A nonlinear vehicle-pavement interaction model incorporating viscoelastic effects of the pavement and examining the effect of coupling on pavement and vehicle displacements. [Link](https://www.tandfonline.com/doi/abs/10.1080/10298436.2018.1562189)
 
 ---
 
