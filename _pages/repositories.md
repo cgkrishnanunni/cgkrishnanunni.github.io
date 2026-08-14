@@ -8,9 +8,9 @@ nav_order: 3
 ---
 
 
-## Research projects undertaken
+## Research Overview
 
-It has always fascinated me to see what mathematics can do especially in bringing together different disciplines to solve complex problems in real life. To that end, my research is interdisciplinary and the projects fall under four broad categories. 
+My research sits at the boundary of computational mathematics and machine learning. The central question driving my work is: can we replace the trial-and-error approach to neural network design with mathematically principled criteria inspired from mechanics, optimal control, and numerical analysis?
 
 - Projects undertaken in **inverse problems**.
 
