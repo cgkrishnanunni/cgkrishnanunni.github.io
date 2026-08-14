@@ -9,7 +9,7 @@ nav_order: 2
 
 **Invited talks**
 
- - "LiLaN: A linear latent network approach for solutions to stiff nonlinear ordinary differential equations", Pasteur Labs, USA, USA, September 8, 2026 (upcoming).
+ - "LiLaN: A linear latent network approach for solutions to stiff nonlinear ordinary differential equations", Pasteur Labs,  USA, September 8, 2026 (upcoming).
  - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
  - " Model-Constrained Approach for Neural Architecture Design with application to UQ", SIAM UQ 2022, Atlanta, Georgia, April 12-15.
  - "Sensitivity-based damage detection algorithm for structures using Vibration response", Talk delivered at the Engineers day Celebration of the Association of Engineers Kerala, Munnar, Idukki, India, September 17.
