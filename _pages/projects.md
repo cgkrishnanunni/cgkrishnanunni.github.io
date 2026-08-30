@@ -16,6 +16,7 @@ nav_order: 2
 
 **Conferences and Workshops**
 
+ - C. G. Krishnanunni, "Framing model training as a dynamical system." Schöntal Discussion Workshop 2026, Schöntal, Germany, 2026.
  - C. G. Krishnanunni, Tan Bui-Thanh, "Approaches for deep neural network architecture design." UQMLIP, Virginia, 2024.
  - C. G. Krishnanunni, Tan Bui-Thanh, Best Poster Award at the Workshop on Scientific Machine Learning, UT Austin, 2024.
  - Attended the 2024 Spring Southeastern Sectional Meeting of the American Mathematical Society held at Florida
