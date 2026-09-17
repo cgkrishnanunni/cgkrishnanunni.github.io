@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our paper "LiLaN: a linear latent network as the solution operator for real-time solutions to stiff and non-stiff nonlinear ordinary differential equations" has been accepted for publication in <a href="https://link.springer.com/journal/44379">Machine Learning for Computational Science and Engineering </a>.
+Delivered an invited talk on <a href="https://link.springer.com/journal/44379">LiLaN: a linear latent network approach for simulation of stiff ODEs </a> at <a href="[https://link.springer.com/journal/44379](https://pasteurlabs.ai/)">Pasteur Labs </a>,  USA, September 15, 2026.
+
 
