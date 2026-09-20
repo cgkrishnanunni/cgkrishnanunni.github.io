@@ -65,7 +65,7 @@ The following projects were undertaken during my M.Tech at [IIT Madras](https://
 
    C++ implementations of basic elements (Quadrilateral element, Plane frame, Plane truss etc) developed as a part of the 'Computational Elasticity' Course by Prof. Mohammed Ameen, NIT Calicut.
 
-- **[LiLaN: A Linear Latent Network as the Solution Operator for Real-Time Solutions to Stiff Nonlinear Ordinary Differential Equations](https://github.com/colenockolds/LiLaN-Robertson-ODE)**
+- **[LiLaN: A Linear Latent Network as the Solution Operator for Real-Time Solutions to Stiff Nonlinear Ordinary Differential Equations](https://github.com/cgkrishnanunni/LILAN-Linear-Latent-Network)**
 
    Jax implementation of the [Lilan](https://arxiv.org/abs/2501.08423) approach. 
 
