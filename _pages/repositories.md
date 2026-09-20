@@ -78,6 +78,12 @@ The following projects were undertaken during my M.Tech at [IIT Madras](https://
 
 ## Interesting reads!
 
+- **[The Fascinating World of 2 × 2 × 2 Tensors: Its Geometry and Optimization Challenges](https://arxiv.org/abs/2504.03937)**
+
+I found this educational article by Gabriel Brown, Joe Kileel, and Tamara G. Kolda a genuinely interesting read. For someone unfamiliar with tensors, it serves as a fantastic introduction to some beautiful ideas, using real-valued 2 × 2 × 2 Tensors as a concrete setting to illustrate several phenomena that have no direct analogue in matrix algebra.
+In particular, they show that these tensors can have rank 3 even though each dimension is only 2, something that could never happen for a matrix, whose rank is always bounded by its smallest dimension. They also show that tensors can have two typical ranks (2 and 3 both occur with positive probability), rather than the single generic rank one expects for random matrices. One particular result concerns optimization, where the authors show that a sequence of rank-2 tensors can converge to a rank-3 tensor. This means a rank-3 2 × 2 × 2 tensor does not necessarily have a best rank-2 approximation.
+I found it a nice paper for understanding why tensors can behave fundamentally differently from matrices.
+
 - **[A Universal Law of Robustness via Isoperimetry](https://arxiv.org/abs/2105.12806)**
 
 This paper provides mathematical insights into why overparametrized models are necessary to interpolate the data smoothly. In particular, the authors have used the term robustness (as measured by the Lipschitz constant of the function) to characterize smoothness in interpolation and show that overparametrization is necessary for reducing the lower bound of the Lipschitz constant. I found this paper particularly interesting since in my research, we use "robustness" as a desirable property for deep neural networks and use this as a criteria to devise a strategy for progressively adapting neural network to a given data-set.  Our  [algorithm](https://arxiv.org/abs/2211.06860) looks at a feasible way to control the upper bound of the Lipschitz constant which is then sufficient for robustness. 
