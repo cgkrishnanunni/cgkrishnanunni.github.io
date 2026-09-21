@@ -69,10 +69,9 @@ The following projects were undertaken during my M.Tech at [IIT Madras](https://
 
    Jax implementation of the [Lilan](https://arxiv.org/abs/2501.08423) approach. 
 
-- **A Machine Learning approach for black-box optimization (Will be updated soon)**
+- **[A Machine Learning assisted approach for black-box optimization](https://github.com/cgkrishnanunni/ADABO-Black-box-optimization-via-adaptive-data-sampling-and-neural-architecture-adaptation)**
 
    Pytorch implementation of an approach for black-box optimization-an alternative to Bayesian optimization. Classical Bayesian optimization uses Gaussian processes to model the objective and selects new evaluation points by maximizing an acquisition function. This project asks whether the [Topological derivative approach](https://arxiv.org/abs/2502.06885) developed in my PhD thesis can be used to grow and train a neural network surrogate (instead of Gaussian process regression), while simultaneously acquiring new data samples via a statistical active learning criterion. Therefore, in this project we combine neural network architecture adaptation with adaptive data sampling in a unified framework for black-box optimization.
-
 
 
 
