@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Upcoming talk titled "On the Approximation Power of LiLaN for Simulating Stiff Nonlinear ODEs" at <ahref="https://astroai-lab.de/">AstroAI-Lab</a>, Heidelberg University, November 4, 2026.
+Upcoming talk titled "On the Approximation Power of LiLaN for Simulating Stiff Nonlinear ODEs" at <a href="https://astroai-lab.de/">AstroAI-Lab</a>, Heidelberg University, November 4, 2026.
