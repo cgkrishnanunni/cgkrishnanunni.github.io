@@ -16,6 +16,7 @@ nav_order: 2
 
 **Conferences and Workshops**
 
+ - Attended the summer school on Theoretical Foundations of Deep Learning held at Raitenhaslach, Germany, October 5-8, 2026.
  - C. G. Krishnanunni, "Framing model training as a dynamical system." Schöntal Discussion Workshop 2026, Schöntal, Germany, 2026.
  - C. G. Krishnanunni, Tan Bui-Thanh, "Approaches for deep neural network architecture design." UQMLIP, Virginia, 2024.
  - C. G. Krishnanunni, Tan Bui-Thanh, Best Poster Award at the Workshop on Scientific Machine Learning, UT Austin, 2024.
