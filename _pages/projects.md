@@ -9,6 +9,7 @@ nav_order: 2
 
 **Invited talks**
 
+ - "On the Approximation Power of LiLaN for Simulating Stiff Nonlinear ODEs", AstroAI-Lab,  Heidelberg University, November 4, 2026.
  - "LiLaN: A linear latent network approach for solutions to stiff nonlinear ordinary differential equations", Pasteur Labs,  USA, September 15, 2026.
  - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
  - " Model-Constrained Approach for Neural Architecture Design with application to UQ", SIAM UQ 2022, Atlanta, Georgia, April 12-15.
