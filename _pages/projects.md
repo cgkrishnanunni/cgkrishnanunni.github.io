@@ -2,33 +2,51 @@
 layout: page
 permalink: /projects/
 title: talks & awards
-description: This page includes talks, conferences, and awards.
+description: Invited talks, conference presentations, and awards.
 nav: true
 nav_order: 2
 ---
 
-**Invited talks**
+## Invited Talks
 
- - "On the Approximation Power of LiLaN for Simulating Stiff Nonlinear ODEs", AstroAI-Lab,  Heidelberg University, November 4, 2026.
- - "LiLaN: A linear latent network approach for solutions to stiff nonlinear ordinary differential equations", Pasteur Labs,  USA, September 15, 2026.
- - "Topological derivative approach for deep neural network architecture adaptation", Computational Algebra Seminar, UT Austin, May 2, 2025.
- - " Model-Constrained Approach for Neural Architecture Design with application to UQ", SIAM UQ 2022, Atlanta, Georgia, April 12-15.
- - "Sensitivity-based damage detection algorithm for structures using Vibration response", Talk delivered at the Engineers day Celebration of the Association of Engineers Kerala, Munnar, Idukki, India, September 17.
+- "On the Approximation Power of LiLaN for Simulating Stiff Nonlinear ODEs."  
+  AstroAI-Lab, Heidelberg University, Germany, November 4, 2026.
+- "LiLaN: A Linear Latent Network Approach for Solutions to Stiff Nonlinear Ordinary Differential Equations."  
+  Pasteur Labs, USA, September 15, 2026.
+- "Topological Derivative Approach for Deep Neural Network Architecture Adaptation."  
+  Computational Algebra Seminar, UT Austin, May 2, 2025.
+- "Model-Constrained Approach for Neural Architecture Design with Application to UQ."  
+  SIAM Conference on Uncertainty Quantification (UQ22), Atlanta, Georgia, April 12–15, 2022.
+- "Sensitivity-Based Damage Detection Algorithm for Structures Using Vibration Response."  
+  Engineers Day Celebration, Association of Engineers Kerala, Munnar, India, September 17, 2017.
 
-**Conferences and Workshops**
+---
 
- - Attended the summer school on Theoretical Foundations of Deep Learning held at Raitenhaslach, Germany, October 5-8, 2026.
- - C. G. Krishnanunni, "Framing model training as a dynamical system." Schöntal Discussion Workshop 2026, Schöntal, Germany, 2026.
- - C. G. Krishnanunni, Tan Bui-Thanh, "Approaches for deep neural network architecture design." UQMLIP, Virginia, 2024.
- - C. G. Krishnanunni, Tan Bui-Thanh, Best Poster Award at the Workshop on Scientific Machine Learning, UT Austin, 2024.
- - Attended the 2024 Spring Southeastern Sectional Meeting of the American Mathematical Society held at Florida
-State University. Florida, March, 2024.
- - C. G. Krishnanunni, Tan Bui-Thanh, "A two-stage strategy for neural architecture design." USNCCM, Albuquerque, New Mexico, 2023.
- - "Layerwise sparsifying training and sequential learning strategy for neural architecture adaptation", 5th Annual Meeting of the SIAM Texas-Louisiana Section, Houston, November 4-6. 
- - C. G. Krishnanunni, B. N. Rao, "Timoshenko beam-vehicle coupled dynamic model for pavement roughness identification." US National Congress on Computational Mechanics, Austin, Texas, USA, 7/2019.
- - Shereena O. A, C. G. Krishnanunni, B. N. Rao, "Performance comparison of discrete Kalman filter and Dynamic programming methods for pavement roughness identification." National Congress on Multidisciplinary Design, Analysis, and Optimization (NCMDAO 2019), Bangalore, 03/2019.
+## Conference Presentations
 
-**Selected Awards**
+- **C. G. Krishnanunni**, "Framing Model Training as a Dynamical System."  
+  Schöntal Discussion Workshop, Schöntal, Germany, 2026.
+- **C. G. Krishnanunni**, Tan Bui-Thanh, "Approaches for Deep Neural Network Architecture Design."  
+  UQMLIP, Virginia, USA, 2024.
+- **C. G. Krishnanunni**, Tan Bui-Thanh, "A Two-Stage Strategy for Neural Architecture Design."  
+  US National Congress on Computational Mechanics (USNCCM), Albuquerque, New Mexico, 2023.
+- **C. G. Krishnanunni**, "Layerwise Sparsifying Training and Sequential Learning Strategy for Neural Architecture Adaptation."  
+  5th Annual Meeting of the SIAM Texas–Louisiana Section, Houston, Texas, November 4–6.
+- **C. G. Krishnanunni**, B. N. Rao, "Timoshenko Beam–Vehicle Coupled Dynamic Model for Pavement Roughness Identification."  
+  US National Congress on Computational Mechanics (USNCCM), Austin, Texas, July 2019.
+- Shereena O. A., **C. G. Krishnanunni**, B. N. Rao, "Performance Comparison of Discrete Kalman Filter and Dynamic Programming Methods for Pavement Roughness Identification."  
+  National Congress on Multidisciplinary Design, Analysis, and Optimization (NCMDAO), Bangalore, India, March 2019.
+
+---
+
+## Meetings Attended
+
+- Summer School on Theoretical Foundations of Deep Learning, Raitenhaslach, Germany, October 5–8, 2026.
+- American Mathematical Society Spring Southeastern Sectional Meeting, Florida State University, Tallahassee, Florida, March 2024.
+
+---
+
+## Selected Awards
 
 - Warren A. and Alice L. Meyer Endowed Scholarship, Cockrell School of Engineering, UT Austin (2024)
 - Best Poster Award, Workshop on Scientific Machine Learning, UT Austin (2024)
