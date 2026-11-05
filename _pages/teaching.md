@@ -6,6 +6,11 @@ description: I have been a teaching assistant for the following courses.
 nav: true
 nav_order: 5
 ---
+# Course Instructor
+- **Randomized Algorithms in Data science** (Heidelberg University, Institute for Mathematics)
+  - Seminar course offering an introduction to randomized algorithms and its applications in data science and large-scale numerical computation. 
+
+# Teaching Assistant
 
 - **Finite Element Analysis** (IIT Madras, Department of structural engineering)
   - Introduction to finite element analysis applied to elasticity problems.
